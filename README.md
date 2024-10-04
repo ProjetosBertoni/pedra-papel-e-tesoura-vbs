@@ -1,1 +1,1 @@
-# pedra-papel-e-tesoura-vbs
+pedra papel e tesoura feito em vbscript
